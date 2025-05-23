@@ -1,0 +1,9 @@
+com/proxmox/test/controller/RestTemplateConfig$1.class
+com/proxmox/test/repository/ProxmoxDetailsRepo.class
+com/proxmox/test/ServiceImpl/ProxmoxServiceimpl.class
+com/proxmox/test/controller/RestTemplateConfig.class
+com/proxmox/test/ProxmoxTestApplication.class
+com/proxmox/test/config/ProxmoxConfig.class
+com/proxmox/test/controller/Controller.class
+com/proxmox/test/Service/SaveProxmox.class
+com/proxmox/test/entity/ProxmoxDetails.class

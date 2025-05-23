@@ -1,0 +1,8 @@
+/home/innuser003/Desktop/proxmox-api/Proxmox-test/src/main/java/com/proxmox/test/ProxmoxTestApplication.java
+/home/innuser003/Desktop/proxmox-api/Proxmox-test/src/main/java/com/proxmox/test/Service/SaveProxmox.java
+/home/innuser003/Desktop/proxmox-api/Proxmox-test/src/main/java/com/proxmox/test/ServiceImpl/ProxmoxServiceimpl.java
+/home/innuser003/Desktop/proxmox-api/Proxmox-test/src/main/java/com/proxmox/test/config/ProxmoxConfig.java
+/home/innuser003/Desktop/proxmox-api/Proxmox-test/src/main/java/com/proxmox/test/controller/Controller.java
+/home/innuser003/Desktop/proxmox-api/Proxmox-test/src/main/java/com/proxmox/test/controller/RestTemplateConfig.java
+/home/innuser003/Desktop/proxmox-api/Proxmox-test/src/main/java/com/proxmox/test/entity/ProxmoxDetails.java
+/home/innuser003/Desktop/proxmox-api/Proxmox-test/src/main/java/com/proxmox/test/repository/ProxmoxDetailsRepo.java

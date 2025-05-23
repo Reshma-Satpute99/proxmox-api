@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "proxmox.token.id",
+  "type": "java.lang.String",
+  "description": "A description for 'proxmox.token.id'"
+}]}

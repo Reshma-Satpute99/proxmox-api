@@ -1,0 +1,20 @@
+[
+    {
+        "comment": "this is for resize vm of a proxmox",
+        "url": "localhost:8080/141/resize",
+        "http-method": "PUT",
+        "disk": "virtio1 / scsi0",
+        "size": "+10G"
+    },
+    {
+        "comment": "this api is for create a vm on proxmox",
+        "url": "localhost:8080/create-vm",
+        "http-method": "POST",
+        "name": "java-vm",
+        "memory": 2321,
+        "cores": 2,
+        "isoStorage": "local",
+        "node": "innprox",
+        "sockets": 1
+    }
+]
